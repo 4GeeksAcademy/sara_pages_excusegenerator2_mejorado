@@ -39,3 +39,15 @@ window.onload = function() {
     return randomExcuse;
   }
 };
+
+const whoList = ["The dog", "My neighbor", "His turtle", "My bird"];
+const actionList = ["ate", "peed", "crushed", "broke"];
+const whatList = ["my homework", "the keys", "the car"];
+const whenList = [
+  "before the class",
+  "right on time",
+  "when I finished",
+  "during my lunch",
+  "while I was praying"
+];
+function getRandomElement(list) {}
